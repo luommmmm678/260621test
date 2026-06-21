@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/Users/chen/AppData/Local/stm32cube/bundles/programmer/\")",
+      "Read(//c/Users/chen/AppData/Local/stm32cube/bundles/programmer/**)"
+    ]
+  }
+}
