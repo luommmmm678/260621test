@@ -77,9 +77,8 @@ volatile uint16_t breath_timer = 0;    // ISR里0..3999循环（4000步=4秒）
   */
 int main(void)
 {
-
   /* USER CODE BEGIN 1 */
-
+  #test
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
